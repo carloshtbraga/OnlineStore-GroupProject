@@ -7,7 +7,7 @@
   <a href="#contato">Contato</a>
 </p>
 <h1 align='center'>
-  <img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg' width="350" heigth="350"/>
+  <img src='https://github.com/carloshtbraga/OnlineStore-GroupProject/blob/main/src/OnlineStore.png?raw=true' width="450" heigth="350"/>
 </h1>
 <h1 align='center'>Sobre o projeto</h1>
 <p align='center'>O App de Receitas foi um projeto desenvolvido durante o curso de formação Trybe que tem como objetivo testar conhecimentos em react.O projeto consiste basicamente em uma loja de vendas online.</p>
